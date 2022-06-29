@@ -1,0 +1,19 @@
+ <svg
+                xmlns="http://www.w3.org/2000/svg"
+                data-name="email_black_24dp (1)"
+                width="16"
+                height="16"
+                viewBox="0 0 16 16"
+              >
+                <path
+                  data-name="Path 2003"
+                  d="M0 0h16v16H0z"
+                  style="fill: none"
+                />
+                <path
+                  data-name="Path 2004"
+                  d="M14 4H3.333a1.332 1.332 0 0 0-1.326 1.333l-.007 8a1.337 1.337 0 0 0 1.333 1.333H14a1.337 1.337 0 0 0 1.333-1.333v-8A1.337 1.337 0 0 0 14 4zm-.267 2.833L9.02 9.78a.674.674 0 0 1-.707 0L3.6 6.833a.566.566 0 1 1 .6-.96l4.467 2.794 4.467-2.793a.566.566 0 1 1 .6.96z"
+                  transform="translate(-.667 -1.333)"
+                  style="fill: #414042"
+                />
+              </svg>
