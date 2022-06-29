@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="169.999" viewBox="0 0 200 169.999">
+    <defs>
+        <linearGradient id="bhofsyfgpb" x1="1.094" y1="1.138" x2=".28" y2=".432" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fc6667"/>
+            <stop offset="1" stop-color="#febabb"/>
+        </linearGradient>
+        <linearGradient id="yasvo1f5ec" x1=".935" y1="1.269" x2="-.093" y2=".796" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ffe7e7"/>
+            <stop offset="1" stop-color="#fbc9ca"/>
+        </linearGradient>
+        <clipPath id="8u1mllmega">
+            <path data-name="Rectangle 18851" style="fill:#fff" d="M0 0h200v106H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 21248">
+        <g data-name="Group 20339">
+            <path data-name="Path 2236" d="m361.558 172.024-10.04 35.348a4.564 4.564 0 0 0 3.1 5.625l60.936 17.566a4.5 4.5 0 0 0 4.916-1.736 4.544 4.544 0 0 0 .664-1.388l10.036-35.334a4.55 4.55 0 0 0-3.094-5.624l-60.936-17.566a4.511 4.511 0 0 0-5.58 3.107" transform="translate(-263.344 -168.741)" style="fill:#f58486"/>
+            <path data-name="Path 2237" d="M389.2 286.586a4.557 4.557 0 0 0 3.254 4.09l60.78 17.666a4.466 4.466 0 0 0 4.9-1.746l-30.956-28.647z" transform="translate(-301.204 -246.519)" style="fill:#ed2024"/>
+            <path data-name="Path 2238" d="M351.344 172.037 378.52 206.3l41.657-12.285.512-1.815a4.572 4.572 0 0 0-3.082-5.645l-60.7-17.634a4.489 4.489 0 0 0-5.558 3.119" transform="translate(-252.863 -168.741)" style="fill:#ffc6c7"/>
+        </g>
+        <g data-name="Mask Group 26" transform="translate(0 63.999)" style="clip-path:url(#8u1mllmega)">
+            <g data-name="Group 20332">
+                <path data-name="Path 2215" d="m-19356-18120.637-23.631 14.98-143.369-17.371 22.676-14.371z" transform="translate(19556.507 18137.549)" style="fill:#ff8e8e"/>
+                <path data-name="Path 2216" d="m-19474.83-18001.229.475-88.955-23.727 14.963.014 15.838-8.506 5.074.039 15.588-8.238 4.773v15.85l-8.143 4.863v12.006z" transform="translate(19674.738 18107.127)" style="fill:url(#bhofsyfgpb)"/>
+                <path data-name="Path 2217" d="M-19466.262-18097.422v16.615l143.146 16.689v-15.891z" transform="translate(19499.767 18111.867)" style="fill:url(#yasvo1f5ec)"/>
+                <path data-name="Path 2218" d="m-19466.01-18096.6-.252 15.791 143.146 16.689-.02-15.6z" transform="translate(19491.361 18132.559)" style="fill:url(#yasvo1f5ec)"/>
+                <path data-name="Path 2219" d="m-19465.861-18096.689-.4 15.883 143.146 16.689v-15.891z" transform="translate(19483.171 18153.25)" style="fill:url(#yasvo1f5ec)"/>
+                <path data-name="Path 2220" d="m-19465.918-18096.838-.344 16.031 143.146 16.689v-15.891z" transform="translate(19474.875 18173.941)" style="fill:url(#yasvo1f5ec)"/>
+                <path data-name="Path 2221" d="m-19465.988-18096.918-.273 16.111 143.146 16.689v-15.891z" transform="translate(19466.578 18194.82)" style="fill:url(#yasvo1f5ec)"/>
+                <path data-name="Path 2222" d="m-19314.932-18035.461-8.455 5.1-142.873-16.885 8.135-5.084z" transform="translate(19491.584 18083.211)" style="fill:#ff8e8e"/>
+                <path data-name="Path 2223" d="m-19315.225-18035.447-8.221 4.82-142.816-16.662 7.848-4.857z" transform="translate(19483.494 18103.877)" style="fill:#ff8e8e"/>
+                <path data-name="Path 2224" d="m-19314.934-18035.187-8.316 4.807-143.021-16.865 8.135-5.084z" transform="translate(19475 18124.313)" style="fill:#ff8e8e"/>
+                <path data-name="Path 2225" d="m-19314.932-18035.461-8.455 5.1-142.873-16.885 8.135-5.084z" transform="translate(19466.691 18145.191)" style="fill:#ff8e8e"/>
+            </g>
+        </g>
+    </g>
+</svg>
